@@ -1,0 +1,1 @@
+public class HandlerForException extends Exception {}
